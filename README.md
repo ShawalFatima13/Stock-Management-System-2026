@@ -1,2 +1,6 @@
-# Stock-Management-System
-An open-source Stock Management System built with Python and SQLite.
+git clone https://github.com/your-username/Stock-Management-System.git
+cd Stock-Management-System
+python app.py
+- 
+- 
+- 
